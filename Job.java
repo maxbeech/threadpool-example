@@ -1,3 +1,9 @@
+/**
+ * ECM2414 Workshop 2
+ * 
+ * @author Max Beech
+ * @version 1
+ */
 public class Job implements Runnable {
 	private int jobNumber;
 
